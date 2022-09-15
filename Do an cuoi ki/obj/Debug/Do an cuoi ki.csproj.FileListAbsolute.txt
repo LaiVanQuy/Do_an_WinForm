@@ -1,0 +1,84 @@
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Do an cuoi ki.exe.config
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Do an cuoi ki.exe
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Do an cuoi ki.pdb
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.Properties.Resources.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do an cuoi ki.csproj.GenerateResource.cache
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do an cuoi ki.csproj.CoreCompileInputs.cache
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do an cuoi ki.exe
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do an cuoi ki.pdb
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmMain.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmBanHang.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmHangHoa.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmHoaDon.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmNhanVien.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmThongKe.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmKhuyenMai.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmNhaCungCap.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmThongTinTK.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmTaiKhoan.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmDangNhap.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmDangKiThe.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmNhapHang.resources
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do an cuoi ki.csproj.CopyComplete
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\RdlCompile.cache
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\RdlCompile.compiled
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\EnvDTE.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\stdole.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\Microsoft.MSXML.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do an cuoi ki.csproj.AssemblyReference.cache
+D:\Học kì 4\Lập trình Windows\Do an cuoi ki\Do an cuoi ki\obj\Debug\Do_an_cuoi_ki.FrmPhieuNhapHang.resources
